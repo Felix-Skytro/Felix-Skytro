@@ -28,6 +28,11 @@ Feel free to check out my repositories, and don't hesitate to open issues or con
 You can reach me anytime via email at:  
 📧 [skytro@skykopf.de](mailto:skytro@skykopf.de)
 
+
+## Here are some fancy widgets of tools I use. Have a look!
+
+![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=17766&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=catppuccin_mocha)
+
 Thanks for stopping by! 👾
 
 
